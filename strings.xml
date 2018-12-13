@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string-array name="countries">
+        <item>China</item>
+        <item>Djibouti</item>
+        <item>India</item>
+        <item>Mexico</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+    </string-array>
+
+    <string-array name="temp_unit">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>CA</item>
+        <item>CT</item>
+        <item>NY</item>
+        <item>VA</item>
+    </string-array>
+    <string name="title_activity_actual">Actual</string>
+</resources>
